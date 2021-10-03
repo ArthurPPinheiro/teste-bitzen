@@ -1,0 +1,13 @@
+{
+    "name": "Motoristas",
+    "alias": "motoristas",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Motoristas\\Providers\\MotoristasServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

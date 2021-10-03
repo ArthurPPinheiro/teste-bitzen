@@ -1,0 +1,13 @@
+{
+    "name": "Abastecimento",
+    "alias": "abastecimento",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Abastecimento\\Providers\\AbastecimentoServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

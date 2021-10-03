@@ -1,0 +1,7 @@
+{
+    "Admin": true,
+    "Users": true,
+    "Motoristas": true,
+    "Veiculo": true,
+    "Abastecimento": true
+}

@@ -1,0 +1,9 @@
+1. php artisan module:make <nome-do-modulo>    --- Para criar um novo modulo
+
+2. criar migration
+
+3. adicionar campos na entitie
+
+4. Mudar nome do arquivo do formulario para <nome-do-modulo>Form
+
+5. Adicionar campos do form
